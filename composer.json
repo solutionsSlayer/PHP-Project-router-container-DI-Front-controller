@@ -1,0 +1,15 @@
+{
+    "name": "dorian/exercice",
+    "authors": [
+        {
+            "name": "Dorian",
+            "email": "ddoussain@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
